@@ -2,9 +2,7 @@
  
 # Information
 
-This is a public repository of the RubyDung ARG source code. This project was a take of the unreleased strategy sandbox game created by Markus "Notch" Persson. If you are interested in the series or just wanna poke at it, feel free to download. Note that some things don't have any function. This is because most things that were made for the series was for show. If you wish to use any of the assets in your own project please credit the people who were apart of this project. You can contact me if you would like to discuss further about using said assets on Discord.
-
-Discord: deedotjay
+This is a public repository of the RubyDung ARG source code. This project was a take of the unreleased strategy sandbox game created by Markus "Notch" Persson. If you are interested in the series or just wanna poke at it, feel free to download. Note that some things don't have any function. This is because most things that were made for the series was for show. If you wish to use any of the assets in your own project please credit the people who were apart of this project.
 
 # Build
 If you would like to build this project, follow these steps.
