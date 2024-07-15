@@ -24,7 +24,7 @@ Source Code can be accessed through opening the project in Unity. This Project u
 
 # Credits
 ```
-Daniel (deedotjay) - Modeler, Composer, Programmer.
+Daniel (deejayrhythm) - Modeler, Composer, Programmer.
 Isaiah (izzyint) - Modeler, Programmer
 ```
 
