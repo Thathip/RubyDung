@@ -24,8 +24,8 @@ Source Code can be accessed through opening the project in Unity. This Project u
 
 # Credits
 ```
-Daniel (deejayrhythm) - Modeler, Composer, Programmer.
-Isaiah (izzyint) - Modeler, Programmer
+Mozark - Modeler, Composer, Programmer.
+izzyint - Modeler, Programmer
 ```
 
 Special thanks to Nova840 for making the terrain script used in this project. Here is a video that shows off the script used in his own project and how he made it. https://youtu.be/f9uueg_AUZs?si=PxMDoWMLrE874wiM
